@@ -182,7 +182,7 @@ class ScrapedDeal:
             f"Features: {self.features}\n"
             f"URL: {self.url}"
         )
-
+#hello code
 
 # -----------------------------------------------------------
 # FETCH ALL DEALS
