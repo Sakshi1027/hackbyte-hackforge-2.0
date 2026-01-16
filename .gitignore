@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Logs
+*.log
+
+# Environment / secrets
+*.env
+secret.txt
+
+# Data folders
+data/
+models/
+checkpoints/
+
+# Node / frontend
+node_modules/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+*.pkl
+*.h5
+
+products_vectorstore/
