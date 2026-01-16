@@ -217,6 +217,7 @@ class Deal(BaseModel):
     price: float
     url: str
     domain: str = "Others"   # NEW FIELD
+    details: str = ""        # Added for richer UI display
 
 
 class DealSelection(BaseModel):

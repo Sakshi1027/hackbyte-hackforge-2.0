@@ -61,6 +61,7 @@ class ScannerAgent(Agent):
                 for s in scraped:
                     if s.url == d.url:
                         d.domain = s.category
+                        d.details = s.details or s.summary # Fallback to summary if details empty
 
             self.log(f"Scanner Agent received {len(result.deals)} selected deals with price>0")
             return result

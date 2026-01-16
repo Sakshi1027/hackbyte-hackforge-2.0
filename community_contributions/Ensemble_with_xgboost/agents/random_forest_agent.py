@@ -20,7 +20,7 @@ class RandomForestAgent(Agent):
         and the SentenceTransformer vector encoding model
         """
         self.log("Random Forest Agent is initializing")
-        self.vectorizer = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2', device='cpu')
+        self.vectorizer = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
         self.model = joblib.load('random_forest_model.pkl')
         self.log("Random Forest Agent is ready")
 
