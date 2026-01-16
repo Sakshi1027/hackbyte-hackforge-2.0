@@ -5,6 +5,7 @@ class Agent:
     An abstract superclass for Agents
     Used to log messages in a way that can identify each Agent
     """
+    #various agents are bounded using n8n
 
     # Foreground colors
     RED = '\033[31m'
