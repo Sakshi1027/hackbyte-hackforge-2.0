@@ -3,11 +3,14 @@ AI Driven Multi Agent Deal Analyzer for Indian Ecommerce
 Dynamic Price Estimation and Autonomous Deal Intelligence
 
 Pricer is an automated multi agent AI framework that scans Indian ecommerce platforms, analyzes product descriptions, predicts INR prices using multiple AI systems, and identifies the strongest deal opportunities. It also stores historical deal data and displays results in a real time dashboard.
+<img width="1600" height="809" alt="image" src="https://github.com/user-attachments/assets/38ade379-1e1d-4a71-94e0-fe989ec53271" />
+<img width="1600" height="802" alt="image" src="https://github.com/user-attachments/assets/95e24d1c-8d74-4434-aab8-9627d3fd4106" />
+<img width="1600" height="505" alt="image" src="https://github.com/user-attachments/assets/193ef3cf-c53a-4b7b-b5aa-9a9466932b3a" />
+<img width="1600" height="810" alt="image" src="https://github.com/user-attachments/assets/19a15ce7-b6cd-42d5-8f87-9459009659df" />
+<img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/c37398a2-4827-4616-9ede-93e7a29119f7" />
+
 
 ---
-<img width="1442" height="938" alt="Screenshot 2025-11-27 145227" src="https://github.com/user-attachments/assets/f5205035-9e90-4eaf-a396-543ccbdf453d" />
-<img width="1431" height="944" alt="Screenshot 2025-11-27 144935" src="https://github.com/user-attachments/assets/db174d86-2c51-423f-96ce-0002ba427ad4" />
-<img width="1915" height="976" alt="Screenshot 2025-11-27 144927" src="https://github.com/user-attachments/assets/f61bd7c3-b195-41ba-83ef-e988e3a29aee" />
 
 
 ## Features
@@ -108,7 +111,3 @@ Best deal (if valuable) is sent as a notification.
 
 Memory JSON is updated automatically.
 
-## Author
-
-Developed by Aditya Adi & Anirudh C
-GitHub: https://github.com/AdityaAdi07
